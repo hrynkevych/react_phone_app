@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_phone_app/static/css/main.14618832.css",
+    "main.js": "/react_phone_app/static/js/main.f388380d.js",
+    "static/media/Mont-Regular.otf": "/react_phone_app/static/media/Mont-Regular.1d26d89f7339866d3133.otf",
+    "static/media/Mont-SemiBold.otf": "/react_phone_app/static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
+    "static/media/Mont-Bold.otf": "/react_phone_app/static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
+    "index.html": "/react_phone_app/index.html",
+    "main.14618832.css.map": "/react_phone_app/static/css/main.14618832.css.map",
+    "main.f388380d.js.map": "/react_phone_app/static/js/main.f388380d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14618832.css",
+    "static/js/main.f388380d.js"
+  ]
+}
