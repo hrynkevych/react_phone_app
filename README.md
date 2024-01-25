@@ -10,7 +10,7 @@ TS, React, React Router DOM, API fetch, Lodash, HTML, CSS(SASS)
 
 **Preview**
 
-You can explore the live preview of the App by following this [DEMO LINK]().
+You can explore the live preview of the App by following this [DEMO LINK](https://hrynkevych.github.io/react_phone_app).
 
 **Design Mockup**
 
